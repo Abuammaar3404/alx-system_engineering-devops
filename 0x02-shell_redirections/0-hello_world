@@ -1,2 +1,3 @@
 #!/bin/bas
-This is my first shell script
+This is my first shell scrip
+echo "Hello World!"
